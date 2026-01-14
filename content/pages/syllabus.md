@@ -46,7 +46,7 @@ Each student must deliver a 15-20 minute presentation on one of the required rea
 
 Due in Ses #25
 
-A 15-20 page essay developing an idea related to the material discussed in class. For guidelines on writing a philosophy paper (and information about how you'll be graded), please see Jim Pryor, "{{% resource_link "402d53ec-c18e-47c1-8f7f-8c7f05b699b6" "Guidelines on Writing a Philosophy Paper." %}}"
+A 15-20 page essay developing an idea related to the material discussed in class. For guidelines on writing a philosophy paper (and information about how you'll be graded), please see Jim Pryor, "[Guidelines on Writing a Philosophy Paper.](http://www.jimpryor.net/teaching/guidelines/writing.html)"
 
 All work on the final essay must be the student's own. Any suspicion of plagiarism or academic dishonesty will be aggressively pursued.
 
